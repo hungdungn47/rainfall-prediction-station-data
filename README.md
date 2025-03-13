@@ -2,6 +2,9 @@
 
 ## Chủ đề: Dự báo lượng mưa với dữ liệu trạm AWS và dữ liệu khí tượng ERA5
 
+## Link báo cáo:
+https://docs.google.com/document/d/1N4J3xOO6KkViWtYyUUc5QMprKPI1SdukEyWATJVS1J0
+
 ### Danh sách thành viên và phân công công việc
 
 - Nguyễn Hùng Dũng (Nhóm trưởng):
